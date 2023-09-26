@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao perfil do MatheusMatosDev 😁
 <style>
  #outlook{
+  margin: 2px;
   background-color: black;
  }
 </style>
