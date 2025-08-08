@@ -16,8 +16,3 @@
  
 ### Para me contactar !!! 
  
-<div> 
- 
-  <a href = "mailto:matheusdailha@outlook.com"><img id="outlook" height="28px"  src="https://teachingandlearning.schulich.yorku.ca/wp-content/uploads/2020/01/messaging-in-outlook.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-matos-de-freitas-9a368a149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
